@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.limenu {
+    list-style: none;
+    display: inline;
+    margin: 4%;
+    background-color: aquamarine;
+    
+}
+
+.nav{
+    background-color: aqua;
+    padding: 1%;
+}
+
+.name{
+    text-align: center;
+}
+.i{
+    font-size: 200px;
+}
